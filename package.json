@@ -1,7 +1,7 @@
 {
-  "name": "my-vercel-app",
+  "name": "iot-monitlog-fp",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "/public/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
